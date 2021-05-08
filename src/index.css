@@ -125,12 +125,14 @@ code {
 .cart-container {
   /* position: absolute; */
   width: 30%;
-  margin-top: 50px;
+  margin-top: 10px;
   background-color: rgb(44, 41, 41);
-  height: 90%;
+  height: 100%;
+  margin-bottom: 40px;
   margin-right: 3px;
   right: 0%;
   top: 0%;
+  scroll-behavior: auto;
   position: fixed;
   border-radius: 12px;
 }
